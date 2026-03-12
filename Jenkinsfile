@@ -11,7 +11,7 @@
 //     echo "Hi my name is john"
 // }
 // }
-// new line
+// new lines
 
 
 pipeline {
